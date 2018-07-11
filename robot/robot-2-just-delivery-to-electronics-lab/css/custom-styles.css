@@ -1,0 +1,39 @@
+.row {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.btn-margin {
+  margin-top: 50px;
+}
+
+.btn {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.bigger {
+  font-size: 6em;
+}
+
+.cb {
+  margin-top: 250px;
+}
+
+.num {
+  font-size: 2em;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.big {
+  font-size: 4em;
+}
+
+.big-btn {
+  font-size: 2em;
+}
